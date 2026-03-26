@@ -2,3 +2,38 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: white;
+    background-color: pink;
+}
+
+.p1 {
+    color: yellow;
+}
+
+.p2 {
+    color: greenyellow;
+}
+body {
+    background-color: gray;
+}
+.p3 {
+    color: aquamarine;
+}
+.border1{
+    border: solid orange;
+    background-color: whitesmoke;
+    height: 100px;
+}
+#footer-style{
+    color: white;
+    border: blueviolet 20px;
+    border-style: groove;
+    background-color: black;
+    text-align: center;
+}
+
+.p4{
+    color: white;
+    text-align: center;
+}
