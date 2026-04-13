@@ -19,6 +19,8 @@ body {
 }
 .p3 {
     color: aquamarine;
+    display: flex;
+    gap: 20px;
 }
 .border1{
     border: solid orange;
